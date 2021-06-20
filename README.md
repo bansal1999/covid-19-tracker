@@ -11,4 +11,3 @@ API used from [diseash.sh](https://disease.sh/docs/)
 * Graph used from [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2)
 * Map used from [react-leaflet](https://react-leaflet.js.org/)
 
-Output can be viewed [**here**](https://mohankumar27.github.io/Covid-19-Tracker/)
